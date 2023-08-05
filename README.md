@@ -1,2 +1,2 @@
 # log-pass-combiner
-Login:password combiner
+Log:Pass Combiner is a simple and user-friendly desktop application that allows users to combine login and password data from two separate text files. The application lets users browse and select files containing logins and passwords. It then combines the corresponding logins and passwords and saves them into a new file called "combined_data.txt." If the number of logins and passwords does not match, the application saves the remaining logins into a separate file called "unchecked.txt." The application features a modern dark-themed interface, making it easy on the eyes and pleasant to use. Log:Pass Maker is a handy tool for securely managing login credentials and creating combined login-password datasets.
